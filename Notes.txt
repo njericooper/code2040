@@ -1,0 +1,9 @@
+var apiKey = "295226313ff3c40ae49f6242aa44824f";
+
+
+JSON"http://challenge.code2040.org/api/register"
+
+curl -H "Content-Type: application/json" -X POST -d '{"token": "95226313ff3c40ae49f6242aa44824f", "github": "https://github.com/njericooper/code2040"}' http://challenge.code2040.org/api/register
+
+
+// an example of json requests https://www.copterlabs.com/json-what-it-is-how-it-works-how-to-use-it/
